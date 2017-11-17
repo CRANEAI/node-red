@@ -29,7 +29,7 @@
 <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="vendor/vendor.css">
 <link rel="stylesheet" href="red/style.min.css">
-<link rel="stylesheet" href="http://beta.crane.ai/stylesheets/cloud.css">
+<link rel="stylesheet" href="https://crane.ai/assets/css/cloud.css">
 <link rel="stylesheet" href="red/test.css">
 {{#page.css}}
 <link rel="stylesheet" href="{{.}}">
